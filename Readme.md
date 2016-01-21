@@ -13,9 +13,9 @@ The  output is an initial transaction cost or proceeds, total fees incurred and
 total cost incurred or proceeds due to you. 
 
 
-Pitch Presentation
-[http://rpubs.com/five2one/byscalc](http://rpubs.com/five2one/byscalc)
-[http://five2one.github.io/DevDataProducts/#/](http://five2one.github.io/DevDataProducts/#/)
+Pitch Presentation  
+[http://rpubs.com/five2one/byscalc](http://rpubs.com/five2one/byscalc)  
+[http://five2one.github.io/DevDataProducts/#/](http://five2one.github.io/DevDataProducts/#/)  
 
 The application is on the RStudio shinyapps.io website:  
 [https://five2one.shinyapps.io/buysellcalc/](https://five2one.shinyapps.io/buysellcalc/)
