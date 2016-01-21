@@ -14,7 +14,7 @@ total cost incurred or proceeds due to you.
 
 
 Pitch Presentation
-
+[http://rpubs.com/five2one/byscalc](http://rpubs.com/five2one/byscalc)
 
 The application is on the RStudio shinyapps.io website:  
 [https://five2one.shinyapps.io/buysellcalc/](https://five2one.shinyapps.io/buysellcalc/)

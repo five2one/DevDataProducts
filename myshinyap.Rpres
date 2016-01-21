@@ -1,0 +1,50 @@
+Cost of buying or proceed from selling shares  Calculator
+========================================================
+A Developing Data Products Course Project
+
+author: five2one  
+date: January 2016
+
+Introduction
+========================================================
+
+This is RStudio shiny application developed as a course project for 
+Coursera's Developing Data Products course in the Data Science 
+Specialization track.  
+
+The application  
+The app developed is a simple calculator to simplify tedious calulation 
+involved during buying or selling a shares.  
+The app lets you pick a transaction type, input number of unit, its price and
+choose a brokerage rate.  
+The  output is an initial transaction cost or proceeds, total fees incurred and
+total cost incurred or proceeds due to you. 
+
+Why use this calculator?
+========================================================
+Although the calculation is simple and straight foward but the steps are little bit 
+long and time consuming if a person use a normal calculator. 
+The calculator takes a minimal set of input and display result interactively.
+
+Application User Interface 
+========================================================
+Below is a user interface of the apps. Information on the app is available 
+at "Readme" tab. 
+
+![title](myapp.png)
+
+
+Application - Link and Code
+========================================================
+The application is on the RStudio shinyapps.io website:  
+[https://five2one.shinyapps.io/buysellcalc/](https://five2one.shinyapps.io/buysellcalc/)  
+
+The application code can be found here:  
+[https://github.com/five2one/DevDataProducts](https://github.com/five2one/DevDataProducts.git)  
+
+
+
+Note: 
+This is a simple apps for demonstration purpose and further customisation is possible. 
+
+
